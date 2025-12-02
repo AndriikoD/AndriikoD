@@ -5,13 +5,13 @@ I build, lead, and ship projects — from idea to execution.
 
 ## Tech Stack
 
-- **Languages**: C#, C++, C, HTML, CSS  
+- **Languages**: C#(main), C++, C
 - **Frameworks & Platforms**: .NET, Unity, Windows API  
+- **Tools**: VS + VS code, GitHub, Microsoft Office (Word, PowerPoint, Access) and Azure(basic level) 
 - **AI & LLMs**:  
-  - **ChatGPT**, **DeepSeek**, **BERT** (cloud-based)  
-  - **LM Studio**, **Ollama** (local LLMs), fine-tuning & model inference  
-- **Tools**: Visual Studio, Git, GitHub, Microsoft Office (Word, PowerPoint, Access)  
-- **Other**: Live streaming, video content creation, fast learning & problem-solving
+  - **ChatGPT**, **DeepSeek** (cloud-based)  
+  - **LM Studio**(local LLMs), fine-tuning & model inference  
+- **Other**: Story yelling , live streaming, video content creation, fast learning & problem-solving, HTML + CSS(basic level) 
 
 Some Facts:
 - I like tea and I have a cat
@@ -21,7 +21,7 @@ Some Facts:
 
 - Ukrainian (Native)  
 - English (Intermediate)  
-- Finnish (Basic)  
+- Finnish (Intermediate)  
 - Russian (Intermediate)
 I've built just a couple projects so far, but there are many more coming — the journey is just beginning!
 <!--
