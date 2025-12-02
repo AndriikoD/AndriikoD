@@ -1,24 +1,29 @@
-## Hi there 👋
+## Hi there! 👋
 
-I'm Andriy, a software developer based in Finland.  
-I code in C# (.NET / Unity) and love building things from scratch.
+I'm Andrii, a IT specialist based in Finland.  
+I build, lead, and ship projects — from idea to execution.
 
-If an idea pops into my head, chances are I'll build it and ship it.  
-My main tech stack includes C#, .NET, and Unity. I'm always learning and improving.
+## Tech Stack
 
-I've built 1 project so far, but there are many more coming — the journey is just beginning!
+- **Languages**: C#, C++, C, HTML, CSS  
+- **Frameworks & Platforms**: .NET, Unity, Windows API  
+- **AI & LLMs**:  
+  - **ChatGPT**, **DeepSeek**, **BERT** (cloud-based)  
+  - **LM Studio**, **Ollama** (local LLMs), fine-tuning & model inference  
+- **Tools**: Visual Studio, Git, GitHub, Microsoft Office (Word, PowerPoint, Access)  
+- **Other**: Live streaming, video content creation, fast learning & problem-solving
 
-I've got a bunch of pinned projects, but my favorite is the **[Project Name]** (you can add a link if you'd like).
+Some Facts:
+- I like tea and I have a cat
+- Hobbies: stories, games and self-improvement
+- One piece is my favorite anime of all time
+## Languages
 
-I've built over 100 public repos, but privately, it's probably more than 200 at this point.
-
-If you want to learn how I do what I do, my books and courses are available here! (link if applicable)
-
-Fun Facts:
-- I have a cat 🐱
-- I don't like coffee or tea ☕
-- Demon Slayer is my favorite anime
-- Hobbies: anime, gym, building things
+- Ukrainian (Native)  
+- English (Intermediate)  
+- Finnish (Basic)  
+- Russian (Intermediate)
+I've built just a couple projects so far, but there are many more coming — the journey is just beginning!
 <!--
 **AndriikoD/AndriikoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
