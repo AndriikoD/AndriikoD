@@ -4,13 +4,13 @@ I build, lead, and ship projects — from idea to execution.
 
 ## Tech Stack
 - **Languages**: C# (main), C++, C  
-- **Frameworks & Platforms**: .NET, Unity, Windows API  
-- **Tools**: Visual Studio, VS Code, GitHub, Microsoft Office (Word, PowerPoint, Access), Azure (basic level)  
-- **Other**: Storytelling, live streaming, video content creation, fast learning & problem-solving, HTML & CSS (basic level)
+- **Frameworks & Platforms**: .NET, Unity, Windows API, Linux(Ubuntu)
+- **Tools**: Visual Studio, VS Code, GitHub, Microsoft Office (Word, PowerPoint, Access) 
+- **Other**: Customer service, fast learning & problem-solving, HTML & CSS (basic level), storytelling, live streaming, video content creation,
 
 ## Curent stayt
-- Сalculator-based game  
-- Smartwatch app (no spoilers 🤫)
+- Job search
+
 
 
 
