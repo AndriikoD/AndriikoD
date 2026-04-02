@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Andrii, an IT specialist based and team leader in Europe.  
+I'm Andrii, an Customer specialist based and team leader in Finland.  
 I build, lead, and ship projects — from idea to execution.
 
 ## Tech Stack
@@ -10,7 +10,7 @@ I build, lead, and ship projects — from idea to execution.
 - **Other**: Customer service, fast learning & problem-solving, HTML & CSS (basic level), storytelling, live streaming, video content creation,
 
 ## Curent status
-- 🚀 Currently looking for full-time IT support roles
+- 🚀 Currently looking for full-time Customer support roles
 
 
 
