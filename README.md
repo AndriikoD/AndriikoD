@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Andrii, an Customer specialist based and team leader in Finland.  
+I'm Andrii, a Customer specialist based and team leader in Finland.  
 I build, lead, and ship projects — from idea to execution.
 
 ## Tech Stack
